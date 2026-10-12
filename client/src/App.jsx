@@ -7,7 +7,7 @@ function App() {
   const [messages, setMessages] = useState([
     {
       role: 'assistant',
-      content: 'Hi! I am your AI assistant. Ask me anything.',
+      content: 'Hi Sankar! I am your AI assistant. Ask me anything.',
     },
   ]);
   const [input, setInput] = useState('');
